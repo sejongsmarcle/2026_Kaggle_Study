@@ -88,6 +88,6 @@ tech talk 2번, 매주!! comment 2번, vote 2번 22222222222222
 - **정규 프로그램 4개 모두 참여한 경우 Junior TRACK 이수로 인정**
 ### 대체 과제 & 결석 사유서
 - 대체 과제 : 해당 주차의 수업 이전까지 제출
-- 결석 사유서 : 스마클에게 제출(shihyunlim1217@naver.com 또는 카톡!)
+- 결석 사유서 : 강민우님에게 제출(smarcle2026@gmail.com 또는 카톡!)
 [동아리 결석 사유서.hwpx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/79ac376c0f8fa9da394a04ad856dec171231ffee/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C.hwpx) | [동아리 결석 사유서.docx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/b31d7911b3a5c531adf8b7e22c62b9bf3df5a733/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C_word%EC%9A%A9.docx)
 
