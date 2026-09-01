@@ -35,21 +35,24 @@ kaggle notebook 발표 (20 min)
 ```
 
 ## 스터디 스케줄
-- 시간: **목요일 7시 ~ 9시**
-- 장소: **센B109**
+- 시간: **화요일 18:30 ~ 20:00**
+- 장소: **센B103**
 
-|회차|날짜|내용|주제|competition🏆|
+|회차|날짜|내용|주제|kaggle🏆|
 |---|---|---|---|---|
-|0주차|24.03.13|OT|캐글 가이드, 스터디 사전 숙제공지!!||
-|1주차|24.03.21|Spaceship Titanic - EDA|binary classification|[Spaceship Titanic](https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview)|
-|2주차|24.03.28|Spaceship Titanic - Model|binary classification|[Spaceship Titanic](https://www.kaggle.com/competitions/2024_SMARCLE_KS_1/overview)|
-|3주차|24.04.04|House Prices - EDA |Regression|[house price](https://www.kaggle.com/competitions/2024smarcleks2house-price/overview)|
-|4주차|24.04.11|House Prices - Model|Regression|[house price](https://www.kaggle.com/competitions/2024smarcleks2house-price/overview)|
-|5주차|24.05.02|캐글 회식!|x|x|
-|6주차|24.05.09|Fashion MNIST - EDA|multi classfication & image|[Fashion MNIST](https://www.kaggle.com/competitions/2024-smarcle-ks-3-fashion-mnist2/overview)|
-|7주차|24.05.16|Fashion MNIST - Model|multi classfication & image|[Fashion MNIST](https://www.kaggle.com/competitions/2024-smarcle-ks-3-fashion-mnist2/overview)|
-|8주차|24.05.23|Forecasting Sales - EDA|Time-series data|[Forecasting Sales](https://www.kaggle.com/t/1d4e8c1250e14edc85dc919d74786e0e)|
-|9주차|24.06.02|Forecasting Sales - Model|Time-series data|[Forecasting Sales](https://www.kaggle.com/t/1d4e8c1250e14edc85dc919d74786e0e)|
+|0주차|26.08.26|OT|캐글 가이드, 스터디 사전 숙제공지!!||
+|1주차|26.09.08|Titanic|binary classification|[Titanic](https://www.kaggle.com/c/titanic)|
+|2주차|26.09.15|Titanic|향상방법론 고안&모델 튜닝|[Titanic](https://www.kaggle.com/c/titanic)|
+|3주차|26.09.22|캐글 회식!|||
+|4주차|26.09.29|House Prices|Regression|[house price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)|
+|5주차|26.10.06|House Prices|향상방법론 고안&모델 튜닝|[house price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)|
+|중간고사|26.10.13|스터디x|||
+|중간고사|26.10.20|스터디x|||
+|6주차|26.10.27|학술제|||
+|7주차|26.11.03|학술제|||
+|8주차|26.11.10|학술제|||
+|9주차|26.11.17|학술제|||
+|10주차|26.11.24|학술제|||
 
 ## 스터디 졸업 요건 
 ```
@@ -73,11 +76,18 @@ tech talk 2번, 매주!! comment 2번, vote 2번 22222222222222
 ```
 
 ## 스터디 규정
-- 결석 및 과제 안 해왔을시 스터디경고 1회
-- 출석 지각 = 3회 누적 시 스터디경고 1회 (단, 해당주차 금요일 자정전까지 운영진에게 지각사유가 합당함을 증명시 지각처리 면제)
-- 결석사유가 학교공결처리기준에 부합시 **대체과제 & 결석사유서**를 통해 스터디경고를 차감가능
+- **스터디는 기본적으로 필참, 불참시 주니어 경고 1회 부여**
+  - 결석 및 과제 미제출 시 스터디 경고 1회
+  - 지각 2회 누적 시 스터디 경고 1회 (시작 10분 후 부터)
+  - 경고 7회 누적 시 부원 자격 박탈
+  - 한 스터디에 경고 누적 5회 시 부원 자격 박탈
+
+- **결석 사유가 학교 공결처리 기준에 부합 시,**
+  **대체 과제와 사유서를 통해 경고 차감 가능**
+
+- **정규 프로그램 4개 모두 참여한 경우 Junior TRACK 이수로 인정**
 ### 대체 과제 & 결석 사유서
-- 대체 과제 : 해당 주차 과제 동일하게 진행, 스터디 마감일 06/06 이전까지 제출
-- 결석 사유서 : 임시현에게 제출(shihyunlim1217@naver.com 또는 카톡!)
+- 대체 과제 : 해당 주차의 수업 이전까지 제출
+- 결석 사유서 : 스마클에게 제출(shihyunlim1217@naver.com 또는 카톡!)
 [동아리 결석 사유서.hwpx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/79ac376c0f8fa9da394a04ad856dec171231ffee/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C.hwpx) | [동아리 결석 사유서.docx](https://github.com/sejongsmarcle/2024_Spring_Kaggle_Study/blob/b31d7911b3a5c531adf8b7e22c62b9bf3df5a733/%EB%8F%99%EC%95%84%EB%A6%AC%20%EA%B2%B0%EC%84%9D%20%EC%82%AC%EC%9C%A0%EC%84%9C_word%EC%9A%A9.docx)
 
