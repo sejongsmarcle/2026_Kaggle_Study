@@ -1,4 +1,4 @@
-<img width="500" height="281" alt="TheBachelorGIFbyCNBCPrime" src="https://github.com/user-attachments/assets/9ae5fcb6-87b2-470e-896d-05b75f62e000" /># 2026_Kaggle_Study
+# 2026_Kaggle_Study
 
 ## 🎯스터디 목표
 - 꾸준히 kaggle 하는 습관 기르기
