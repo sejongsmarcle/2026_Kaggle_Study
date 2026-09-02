@@ -1,51 +1,39 @@
-# 2026_Kaggle_Study
+<img width="500" height="281" alt="TheBachelorGIFbyCNBCPrime" src="https://github.com/user-attachments/assets/9ae5fcb6-87b2-470e-896d-05b75f62e000" /># 2026_Kaggle_Study
 
-## 스터디 목표
+## 🎯스터디 목표
 - 꾸준히 kaggle 하는 습관 기르기
 - 나 혼자만 kaggle expert 레벨업
 - 수준에 관계없이 만족할 수 있는 스터디
 - 노트북에 대한 코드 공유 & 코멘트 & vote 활성화
 - 인공지능 배경지식에 대한 공유
 
-## 스터디 내용
-- 모딥 스터디에서 더 나아가 인공지능(딥러닝) 심화 스터디
+## 📖스터디 내용
+- ML/DL스터디에서 나아가 실제 데이터를 사용해보는 실전경험
 - 데이터 분석 + 시각화 + 모델링
 - 파이썬 인공지능 관련 라이브러리 (numpy, pandas, sklearn, tf.keras, pytorch) 사용
-- Kaggle Dataset을 이용한 다양한 데이터 다뤄보기
+- 학술제를 통한 팀플레이&실전감각 쌓기
 
-## 스터디 방식
-- tech talk (테크톡)
+## ✍️스터디 방식
+- kaggle 실습내용 발표(랜덤발표)
+- 팀대항 퀴즈타임
 - kaggle competition (1차시 - EDA, 2차시 - 모델링)
-- kaggle notebook 발표
+- kaggle 실습내용 발표
 - comment & vote
 - 모든 질문은 slack에서!!
 
-```
-[스터디 전]
-tech talk 준비 (사전 발표자만)
-kaggle 노트북 준비 (most 🗳️vote & 💬comments & 🔥hottest)
-comment 2회 & vote 2회
-참고로 과제는 매주 카톡을 통해 공지해 드립니다!
 
-[스터디]
-tech talk (40 min)
-🍵휴식시간 (10 min)
-kaggle notebook 발표 (20 min)
-피어리뷰 1:1 (20 min)
-```
-
-## 스터디 스케줄
+## 📅스터디 스케줄
 - 시간: **화요일 18:30 ~ 20:00**
 - 장소: **센B103**
 
 |회차|날짜|내용|주제|kaggle🏆|
 |---|---|---|---|---|
 |0주차|26.08.26|OT|캐글 가이드, 스터디 사전 숙제공지!!||
-|1주차|26.09.08|Titanic|binary classification|[Titanic](https://www.kaggle.com/c/titanic)|
-|2주차|26.09.15|Titanic|향상방법론 고안&모델 튜닝|[Titanic](https://www.kaggle.com/c/titanic)|
+|1주차|26.09.08|Titanic|binary classification|[Titanic](https://buly.kr/CWwpFgj)|
+|2주차|26.09.15|Titanic|향상방법론 고안&모델 튜닝|[Titanic](https://buly.kr/CWwpFgj)|
 |3주차|26.09.22|캐글 회식!|||
-|4주차|26.09.29|House Prices|Regression|[house price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)|
-|5주차|26.10.06|House Prices|향상방법론 고안&모델 튜닝|[house price](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques)|
+|4주차|26.09.29|House Prices|Regression|[house price](https://buly.kr/Edvv1UI)|
+|5주차|26.10.06|House Prices|향상방법론 고안&모델 튜닝|[house price](https://buly.kr/Edvv1UI)|
 |중간고사|26.10.13|스터디x|||
 |중간고사|26.10.20|스터디x|||
 |6주차|26.10.27|학술제|||
@@ -54,28 +42,8 @@ kaggle notebook 발표 (20 min)
 |9주차|26.11.17|학술제|||
 |10주차|26.11.24|학술제|||
 
-## 스터디 졸업 요건 
-```
-[tech talk]
-- 이번 주차 캐글에서 사용한 개념을 키워드로 발표합니다.
-- 더 넓게 많은 것을 공부하기 위한 스터디로 꼭 도움이 될거에요!
-- 키워드는 전 주차에 운영진이 제시하지만, 원한다면 본인이 직접 정해도 됩니다!
-- 스터디 끝나기 전, 인당 2회 이상의 발표가 요구됩니다! 필수로!
-- 한 주차당 5명의 사람이 발표 가능!
-ex) #plotly, #결측치제거 #dataloader 등의 키워드 중 1택 하여 tech talk 시간에 발표하면 됩니다!
 
-[comment & vote]
-- 📊데이터사이언티스트가 소통하는 방법! 더 많은 관심! 더 많은 대화!
-- comment를 통해서 노트북에서 궁금했던 점 물어보기!
-- 멋있는 노트북 있으면 vote 해주기!
-- 열심히 하는 모습이 보이는 친구에게도 comment로 응원해주기!
-- 이왕이면 영어로 ㅎㅎ (kaggle은 전세계 사람이 사용하는 플랫폼이니까!)
-- 매주 comment 2번, vote 2번 필수!!
-
-tech talk 2번, 매주!! comment 2번, vote 2번 22222222222222
-```
-
-## 스터디 규정
+## ✅스터디 규정
 - **스터디는 기본적으로 필참, 불참시 주니어 경고 1회 부여**
   - 결석 및 과제 미제출 시 스터디 경고 1회
   - 지각 2회 누적 시 스터디 경고 1회 (시작 10분 후 부터)
