@@ -40,7 +40,7 @@
 |---|---|---|---|---|
 |0주차|26.08.26|OT|캐글 가이드, 스터디 사전 숙제공지!!||
 |1주차|26.09.08|Titanic|binary classification|[Titanic](https://buly.kr/CWwpFgj)|
-|2주차|26.09.15|Titanic|향상방법론 고안&모델 튜닝|[Titanic](https://buly.kr/CWwpFgj)|
+|2주차|26.09.15|Titanic|binary classification|[Titanic](https://buly.kr/CWwpFgj)|
 |3주차|26.09.22|캐글 회식!|||
 |4주차|26.09.29|House Prices|Regression|[house price](https://buly.kr/Edvv1UI)|
 |5주차|26.10.06|House Prices|향상방법론 고안&모델 튜닝|[house price](https://buly.kr/Edvv1UI)|
