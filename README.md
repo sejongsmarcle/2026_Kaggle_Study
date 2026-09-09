@@ -41,8 +41,8 @@
 |1주차|26.09.08|Titanic|binary classification|[Titanic](https://buly.kr/CWwpFgj)|
 |2주차|26.09.15|Titanic|binary classification|[Titanic](https://buly.kr/CWwpFgj)|
 |3주차|26.09.22|캐글 회식!|||
-|4주차|26.09.29|House Prices|Regression|[house price](https://buly.kr/Edvv1UI)|
-|5주차|26.10.06|House Prices|향상방법론 고안&모델 튜닝|[house price](https://buly.kr/Edvv1UI)|
+|4주차|26.09.29|House Prices 또는 자유주제|Regression|[house price](https://buly.kr/Edvv1UI)|
+|5주차|26.10.06|House Prices 또는 자유주제|향상방법론 고안&모델 튜닝|[house price](https://buly.kr/Edvv1UI)|
 |중간고사|26.10.13|스터디x|||
 |중간고사|26.10.20|스터디x|||
 |6주차|26.10.27|학술제|||
